@@ -5,7 +5,7 @@ DNS Profile Block iOS Cert Revocation.
 1. [Download DNS Profile here](https://raw.githubusercontent.com/ZiolKen/DNS-Anti-Revoke/refs/heads/main/DNS%20Anti%20Revoke.mobileconfig)
 2. Click Allow to download.
 3. Open Settings and goto General > VPN & Device management.
-4. Click DNS Anti Revoke and install it.
+4. Click on DNS Anti Revoke and install it.
 5. Back and goto DNS, make sure enable DNS Anti Revoke only.
 
 **Warning:**
